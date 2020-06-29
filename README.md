@@ -1,0 +1,2 @@
+# curso-NLW
+Projeto da Next Level Week, onde desenvolvemos uma aplicação do zero até (Front-End e Back-End), nessa semana de aprendizado, eu conseguir colocar em práticas vários conceitos de programação com js, também conseguir aprimorar minhas habilidades com HTML e CSS, onde pude revisar conceitos básicos e colocá-los em prática novamente. Tive oportunidade de tirar dúvidas com outros devs que estão participando do evento, compartilhar conhecimentos, ideias, etc.  Construído com:  - HTML  - CSS  - JavaScript  - Nodejs  - Nunjucks  - MySQL  - Express  - API externa do IBGE
